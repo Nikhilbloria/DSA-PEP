@@ -30,11 +30,13 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -47,5 +49,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 ## Binary Tree
 |  |
@@ -32,6 +33,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |

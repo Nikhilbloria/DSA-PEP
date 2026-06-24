@@ -33,6 +33,7 @@
 | [0049-group-anagrams](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -71,4 +73,5 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->

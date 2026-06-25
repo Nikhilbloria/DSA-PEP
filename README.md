@@ -37,6 +37,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0049-group-anagrams) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -89,9 +91,18 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

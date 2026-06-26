@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1480-running-sum-of-1d-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Array
 |  |
@@ -40,6 +41,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
+| [1480-running-sum-of-1d-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |

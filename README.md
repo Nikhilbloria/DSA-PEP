@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0209-minimum-size-subarray-sum) |
@@ -60,6 +61,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

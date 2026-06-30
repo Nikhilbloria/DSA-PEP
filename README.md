@@ -54,6 +54,7 @@
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
@@ -79,6 +80,7 @@
 | [0076-minimum-window-substring](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Queue
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |

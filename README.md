@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0090-subsets-ii) |
@@ -123,6 +124,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

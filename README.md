@@ -38,6 +38,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0090-subsets-ii) |
 ## Breadth-First Search

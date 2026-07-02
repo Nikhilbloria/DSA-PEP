@@ -51,6 +51,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0239-sliding-window-maximum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -147,4 +150,13 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

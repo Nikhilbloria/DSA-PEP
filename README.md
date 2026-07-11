@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1480-running-sum-of-1d-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -51,6 +52,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0525-contiguous-array) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1301-number-of-paths-with-max-score) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1480-running-sum-of-1d-array) |
@@ -68,6 +70,7 @@
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0525-contiguous-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3532-path-existence-queries-in-a-graph-i) |

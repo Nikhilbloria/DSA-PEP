@@ -11,6 +11,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0098-validate-binary-search-tree) |
 | [0210-course-schedule-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -155,12 +156,14 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -174,6 +177,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path

@@ -188,4 +188,8 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0210-course-schedule-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

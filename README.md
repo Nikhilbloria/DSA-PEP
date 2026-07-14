@@ -30,6 +30,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -61,6 +62,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Hash Table
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -192,4 +195,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->

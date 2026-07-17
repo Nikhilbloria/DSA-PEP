@@ -20,6 +20,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Tree
 |  |
@@ -38,6 +39,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1480-running-sum-of-1d-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Array
@@ -62,6 +64,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -77,11 +80,13 @@
 | [0525-contiguous-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0525-contiguous-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -118,6 +123,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0387-first-unique-character-in-a-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
 | ------- |
@@ -202,6 +208,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -213,4 +220,8 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

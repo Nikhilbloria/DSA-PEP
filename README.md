@@ -118,6 +118,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Queue
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |

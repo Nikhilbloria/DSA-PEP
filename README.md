@@ -32,6 +32,7 @@
 | [0070-climbing-stairs](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0518-coin-change-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1301-number-of-paths-with-max-score) |
@@ -58,6 +59,7 @@
 | [0162-find-peak-element](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |

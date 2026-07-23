@@ -29,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0518-coin-change-ii) |
@@ -89,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -231,4 +233,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

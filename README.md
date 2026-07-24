@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilbloria/DSA-PEP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -33,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0518-coin-change-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1301-number-of-paths-with-max-score) |
@@ -63,6 +65,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0525-contiguous-array) |

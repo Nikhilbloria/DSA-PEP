@@ -101,6 +101,7 @@
 | [0268-missing-number](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |

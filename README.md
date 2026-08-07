@@ -102,6 +102,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -128,6 +129,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Queue
 |  |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,6 +182,7 @@
 | [0051-n-queens](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0090-subsets-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -228,6 +232,7 @@
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers

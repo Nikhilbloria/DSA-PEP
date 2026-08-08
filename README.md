@@ -38,6 +38,7 @@
 | [0322-coin-change](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0518-coin-change-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1301-number-of-paths-with-max-score) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -129,6 +130,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikhilbloria/DSA-PEP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Queue
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nikhilbloria/DSA-PEP/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -238,6 +241,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbloria/DSA-PEP/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
